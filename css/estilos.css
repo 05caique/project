@@ -1,0 +1,47 @@
+h1{
+  text-align: center;
+}
+
+.obrigatorio{
+  font-family: Gill Sans, sans-serif;
+  font-size: medium;
+  background-color: #CAE1FF;
+}
+
+.apresentacao{
+  text-align: center;
+  background-color: #BCD2EE;
+}
+
+.rodape{
+  background: #BCD2EE;
+  margin-top: 8%;
+}
+
+#soueu{
+  text-align: justify;
+  font-size: 18px;
+  width:20%;
+  margin-left: 40%;
+}
+
+#principal:hover{
+  transition: 2s;
+  opacity:0.3;
+}
+
+#form{
+  margin-left: 30%;
+}
+
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+a{
+  font-size: 10px;
+  color:#333333;
+}
